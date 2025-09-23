@@ -52,14 +52,7 @@ const Index = () => {
         </div>
 
         {/* Footer */}
-        <div className="pt-12 pb-8">
-          <p className="text-xs text-muted-foreground">
-            Powered by{" "}
-            <span className="text-gaming-blue hover:text-gaming-purple transition-colors cursor-pointer">
-              Systeme.io
-            </span>
-          </p>
-        </div>
+        
       </div>
 
       {/* Decorative elements */}
