@@ -3,7 +3,7 @@ import { CountdownTimer } from "@/components/CountdownTimer";
 import gamingHero from "@/assets/gaming-hero.jpg";
 const Index = () => {
   const handleTelegramClick = () => {
-    window.open("https://t.me/+CW3-HkrdUjE5NzZl", "_blank");
+    window.open("https://t.me/+HFpfg6t8QVQ2NjRl", "_blank");
   };
   return <div className="min-h-screen bg-gradient-hero flex flex-col items-center justify-center px-4 relative overflow-hidden">
       {/* Background glow effects */}
