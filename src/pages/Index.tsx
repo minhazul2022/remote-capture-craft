@@ -23,7 +23,7 @@ const Index = () => {
         </h1>
 
         {/* Description in Bengali */}
-        <div className="text-lg md:text-xl text-foreground max-w-3xl mx-auto space-y-3 text-center px-4">
+        <div className="text-lg md:text-xl text-foreground max-w-3xl mx-auto space-y-3 text-center px-[3px]">
           <p className="leading-snug font-medium">শিখুন, প্র্যাকটিস করুন এবং আয় করুন – এক জায়গায় সবকিছু!</p>
           
           <p className="leading-snug font-medium">📌 আমাদের টেলিগ্রাম গ্রুপে যা পাচ্ছেন একদম ফ্রি:</p>
