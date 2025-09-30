@@ -43,7 +43,7 @@ const Index = () => {
         </div>
 
         {/* CTA Button */}
-        <div className="py-8">
+        <div className="py-4">
           <Button variant="telegram" size="lg" onClick={handleTelegramClick} className="gaming-glow hover:scale-105 transform transition-all duration-300 font-bold text-base">
             📱 Join Telegram Now 📱
           </Button>
